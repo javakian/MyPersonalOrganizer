@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					D2536C631DD79A1F00264C65 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = RKA6W6P3FD;
 						ProvisioningStyle = Automatic;
 					};
 					D2536C7A1DD79A2100264C65 = {
@@ -416,6 +417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RKA6W6P3FD;
 				INFOPLIST_FILE = MyPersonalorganizer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = oa.MyPersonalorganizer;
@@ -428,6 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RKA6W6P3FD;
 				INFOPLIST_FILE = MyPersonalorganizer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = oa.MyPersonalorganizer;
